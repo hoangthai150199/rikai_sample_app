@@ -13,6 +13,8 @@ gem 'sassc-rails', '>= 2.1.0'
 gem 'jquery-rails'
 
 gem 'sass-rails'
+
+gem'bcrypt'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
