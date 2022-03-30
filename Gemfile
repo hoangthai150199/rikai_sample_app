@@ -8,11 +8,9 @@ gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 
 gem 'bootstrap-sass', '~> 3.4.1'
 
-gem 'sassc-rails', '>= 2.1.0'
+gem "sass-rails",       "6.0.0", require: false
 
 gem 'jquery-rails'
-
-gem 'sass-rails'
 
 gem "bcrypt", '3.1.13'
 
