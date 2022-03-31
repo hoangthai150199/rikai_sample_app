@@ -16,11 +16,21 @@ gem "bcrypt", '3.1.13'
 
 gem "faker"
 
-gem "image_processing", "1.9.3"
+# gem "image_processing", "1.9.3"
 
-gem "mini_magick", "4.9.5"
+# gem "mini_magick", "4.9.5"
 
-gem "active_storage_validations", "0.8.2"
+#  gem "active_storage_validations", "0.8.2"
+
+gem 'carrierwave'
+
+gem "mini_magick"
+
+gem 'fog', "~> 1.32.0"
+
+gem 'net-ssh'
+
+gem 'xmlrpc', '0.2.1'
 
 gem "will_paginate", "~> 3.1"
 
